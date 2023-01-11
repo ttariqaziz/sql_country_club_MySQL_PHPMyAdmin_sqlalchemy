@@ -1,3 +1,3 @@
 # sql_country_club
 
-This project was partly carried out in the PHPMyAdmin interface, and partly in Google Colab via a Python connection.
+In this project, I use MySQL, PHPMyAdmin interface, Google colab, and SQLite via python connection to tackle a series of challenges on a database containing information about the country club.
