@@ -1,0 +1,10 @@
+"facid","name","membercost","guestcost","initialoutlay","monthlymaintenance","expense_label"
+"0","Tennis Court 1","5.0","25.0","10000","200",NULL
+"1","Tennis Court 2","5.0","25.0","8000","200",NULL
+"2","Badminton Court","0.0","15.5","4000","50",NULL
+"3","Table Tennis","0.0","5.0","320","10",NULL
+"4","Massage Room 1","9.9","80.0","4000","3000",NULL
+"5","Massage Room 2","9.9","80.0","4000","3000",NULL
+"6","Squash Court","3.5","17.5","5000","80",NULL
+"7","Snooker Table","0.0","5.0","450","15",NULL
+"8","Pool Table","0.0","5.0","400","15",NULL
